@@ -12,7 +12,7 @@
 ## 📋 About Me
 
 - 🎓 **B.Sc. in Computer Science & Engineering**  
-  American International University-Bangladesh (AIUB) — *6th Semester*
+  American International University-Bangladesh (AIUB) — *10th Semester*
 - 💡 Passionate about building scalable web applications and learning cloud infrastructure.
 - 🧠 Strong foundation in **Object-Oriented Design**, **Database Systems**, and **Windows Application Development**.
 - 🚀 Actively seeking **Summer 2026 Internships** and **Entry‑Level Software Engineering** roles.
